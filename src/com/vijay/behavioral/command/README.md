@@ -1,3 +1,4 @@
+* [Home](../../../../../README.md)
 # Command Pattern
 
 #### Definition
@@ -37,3 +38,5 @@ just about as long as our little classes, so there is frequently little differen
 in complexity between building the Command classes and just writing more
 methods. The main difference is that the Command pattern produces little
 classes that are much more readable.
+
+* [Home](../../../../../README.md)
