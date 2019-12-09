@@ -1,3 +1,4 @@
+* [Home](../../../../../README.md)
 # Composite Pattern
 
 #### Definition
@@ -27,3 +28,5 @@ to your collection as long as they support a similar programming interface. On
 the other hand, this has the disadvantage of making your system overly
 general. You might find it harder to restrict certain classes where this would
 normally be desirable.
+
+* [Home](../../../../../README.md)
