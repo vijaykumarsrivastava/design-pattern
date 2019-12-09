@@ -1,3 +1,4 @@
+* [Home](../../../../../README.md)
 # Singleton Pattern
 
 #### Definition
@@ -23,3 +24,5 @@ is required.
 Singleton pattern is also considered an anti-pattern by some people, who feel
 that it is overused, introducing unnecessary limitations in situations where a
 sole instance of a class is not actually required.
+
+* [Home](../../../../../README.md)
