@@ -1,5 +1,7 @@
 # design-pattern
 
+A design pattern provides a general reusable solution for the common problems that occur in software design. The pattern typically shows relationships and interactions between classes or objects. The idea is to speed up the development process by providing well tested, proven development/design paradigms. Design patterns are programming language independent strategies for solving a common problem. That means a design pattern represents an idea, not a particular implementation. By using design patterns, you can make your code more flexible, reusable, and maintainable.
+
 #### Creational Patterns
 
 "Creational design patterns are design patterns that deal with object
